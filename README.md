@@ -1,2 +1,4 @@
 DataStructure using C#
-Sorting POC
+Count Sort
+Insertion Sort
+Selection Sort
